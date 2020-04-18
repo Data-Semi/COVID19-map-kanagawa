@@ -8,4 +8,4 @@ All comments and data details is in the notebook.
 ![Example][image1]    
 
 # Need to improve   
-The folium tooltip is not showing Japanese address properly, need to fix it.
+The map will show every circles address when user pointing on it. It is not showing Japanese charactor address properly with `folium tooltip`, need to fix it.
