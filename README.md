@@ -7,5 +7,5 @@ All comments and data details is in the notebook.
 [covid-observation.ipynb](https://github.com/Data-Semi/COVID19-map-kanagawa/blob/master/covid-observation.ipynb)
 ![Example][image1]    
 
-# Need improve   
+# Need to improve   
 The folium tooltip is not showing Japanese address properly, need to fix it.
